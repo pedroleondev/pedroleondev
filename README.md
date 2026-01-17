@@ -44,12 +44,6 @@ I am a **Systems Builder** focused on extreme productivity through **VibeCoding*
 ### 🤖 Influencer-OS & Meta-Agente
 * **PT:** Desenvolvimento de Micro-SaaS focado em gestão de agências e automação de prompts via IA.
 * **EN:** Development of Micro-SaaS focused on agency management and AI-driven prompt automation.
-
----
-
-## 📊 Github Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroleondev&theme=radical)
-
 ---
 
 ## 📫 Conecte-se / Connect with me
