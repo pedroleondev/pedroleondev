@@ -54,7 +54,7 @@ I am a **Systems Builder** focused on extreme productivity through **VibeCoding*
 
 ## 📫 Conecte-se / Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bypedroleon/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seu-email@link.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pedro.leon23@gmail.com)
 
 ---
 
