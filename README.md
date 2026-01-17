@@ -48,8 +48,8 @@ I am a **Systems Builder** focused on extreme productivity through **VibeCoding*
 ---
 
 ## 📊 Github Stats
-![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroleondev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroleondev&layout=compact&theme=radical)
+![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroleondev&show_icons=true&theme=radical&cache_id=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroleondev&layout=compact&theme=radical&cache_id=1)
 
 ---
 
